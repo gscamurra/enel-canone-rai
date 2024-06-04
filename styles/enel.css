@@ -59,6 +59,13 @@ border-radius: 0px;
 	background: rgba(88, 185, 71, .2);
 }
 
+@media (max-width: 899px) {
+    .menu-four-option div {
+        height: 250px !important;
+        border-bottom: 0px !important;
+    }
+}
+
 @media (min-width: 900px) {
 
     .menu-four-option div {
