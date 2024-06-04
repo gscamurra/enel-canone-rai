@@ -4,7 +4,6 @@
 }
 
 .menu-four-option div {
-    height: 100px !important;
     border-bottom: 0px !important;
 }
 
@@ -16,4 +15,13 @@ border: 1px solid;
 width: 100%;
 background: #FFF;
 }
+
+@media (min-width: 900px) {
+
+    .menu-four-option div {
+        height: 100px !important;
+        border-bottom: 0px !important;
+    }
+    
+    }
 
