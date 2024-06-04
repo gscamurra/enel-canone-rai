@@ -11,9 +11,15 @@
 color: #666666;
 font-weight: bold;
 font-size: 20px;
-border: 1px solid;
+border: 2px solid;
 width: 100%;
 background: #FFF;
+border-radius: 0px;
+}
+
+.menu-four-option div div:nth-child(2)
+{
+ border-color: blue !important;
 }
 
 @media (min-width: 900px) {
