@@ -17,7 +17,7 @@ background: #FFF;
 border-radius: 0px;
 }
 
-.menu-four-option div div:nth-child(2)
+.menu-four-option div div:nth-child(2) a.button
 {
  border-color: blue !important;
 }
