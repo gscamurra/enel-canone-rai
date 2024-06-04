@@ -27,11 +27,6 @@ border-radius: 0px;
  border-color: #ffc63e !important;
 }
 
-.menu-four-option div div:nth-child(1) a.button:hover
-{
- background-color:  #f6ae08 !important;
-}
-
 .menu-four-option div div:nth-child(2) a.button
 {
  border-color: #074fea !important;
@@ -45,6 +40,23 @@ border-radius: 0px;
 .menu-four-option div div:nth-child(4) a.button
 {
  border-color: #58b947 !important;
+}
+
+.menu-four-option div div:nth-child(1) a.button:hover
+{
+    background: rgba(255, 198, 62, .2);
+}
+.menu-four-option div div:nth-child(2) a.button:hover
+{
+	background: rgba(7, 79, 234, .2);
+}
+.menu-four-option div div:nth-child(3) a.button:hover
+{
+	background: rgba(255, 24, 106, .2);
+}
+.menu-four-option div div:nth-child(4) a.button:hover
+{
+	background: rgba(88, 185, 71, .2);
 }
 
 @media (min-width: 900px) {
