@@ -59,6 +59,15 @@ border-radius: 0px;
 	background: rgba(88, 185, 71, .2);
 }
 
+.standard-text {
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 300;
+    color: #666666;
+    letter-spacing: 0.025em;
+    line-height: 1.5;
+}
+
 @media (max-width: 899px) {
     .menu-four-option div {
         height: 250px !important;
