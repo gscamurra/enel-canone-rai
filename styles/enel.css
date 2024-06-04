@@ -1,3 +1,9 @@
+.menu-four-option {
+ padding: 0px !important;
+ margin-top: -100px;
+}
+
 .menu-four-option div {
     height: 100px !important;
 }
+
