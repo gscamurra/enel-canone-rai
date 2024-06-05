@@ -99,6 +99,10 @@ border-radius: 0px;
     color: #ff186a;
 }
 
+.faq .accordion-item-body {
+    background: #FFF;
+}
+
 @media (max-width: 899px) {
     .menu-four-option div {
         height: 250px !important;
