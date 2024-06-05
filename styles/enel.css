@@ -30,6 +30,15 @@ border-radius: 0px;
     text-align: center;
 }
 
+.info-card h5{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 39px;
+}
+
+
+
+
 .menu-four-option div div:nth-child(1) a.button, .info-card .button-container a.button 
 {
  border-color: #ffc63e !important;
