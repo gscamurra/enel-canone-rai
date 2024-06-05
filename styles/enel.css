@@ -94,7 +94,7 @@ border-radius: 0px;
     border-bottom: 0px !important;
 }
 
-.faq {
+.faq .accordion-item-label p {
     font-size: 20px;
     color: #ff186a;
 }
