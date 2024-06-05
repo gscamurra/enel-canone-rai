@@ -12,7 +12,7 @@
     border-bottom: 0px !important;
 }
 
-.menu-four-option a.button {
+.menu-four-option a.button, .info-card .button-container a.button {
 color: #666666;
 font-weight: bold;
 font-size: 20px;
@@ -22,7 +22,7 @@ background: #FFF;
 border-radius: 0px;
 }
 
-.menu-four-option div div:nth-child(1) a.button
+.menu-four-option div div:nth-child(1) a.button, .info-card .button-container a.button 
 {
  border-color: #ffc63e !important;
 }
@@ -42,7 +42,7 @@ border-radius: 0px;
  border-color: #58b947 !important;
 }
 
-.menu-four-option div div:nth-child(1) a.button:hover
+.menu-four-option div div:nth-child(1) a.button:hover, .info-card .button-container a.button:hover
 {
     background: rgba(255, 198, 62, .2);
 }
