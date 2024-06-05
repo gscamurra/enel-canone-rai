@@ -68,6 +68,10 @@ border-radius: 0px;
     line-height: 1.5;
 }
 
+.background-grey {
+    background: #f7f7f7;
+}
+
 @media (max-width: 899px) {
     .menu-four-option div {
         height: 250px !important;
@@ -83,4 +87,6 @@ border-radius: 0px;
     }
     
     }
+
+
 
