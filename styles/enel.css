@@ -100,6 +100,10 @@ border-radius: 0px;
         border-bottom: 0px !important;
     }
 
+    .info-card .columns img {
+        width: 100% !important;
+    }
+
     
 }
 
@@ -113,8 +117,9 @@ border-radius: 0px;
         height: 420px !important;
         border-bottom: 0px !important;
     }
+
     
-    }
+}
 
 
 
