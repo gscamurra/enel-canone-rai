@@ -97,6 +97,7 @@ border-radius: 0px;
 .faq .accordion-item-label p {
     font-size: 30px;
     color: #ff186a;
+    line-height: 30px;
 }
 
 .faq .accordion-item-body {
