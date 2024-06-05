@@ -112,7 +112,10 @@ border-radius: 0px;
         font-size: 25px;
     }
 
-    
+    .standard-text, .background-grey h2 {
+        padding-left: 20px;
+        padding-right: 20px;
+    }    
 }
 
 @media (min-width: 900px) {
