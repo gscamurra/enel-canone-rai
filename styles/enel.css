@@ -115,7 +115,11 @@ border-radius: 0px;
     .standard-text, .background-grey h2 {
         padding-left: 20px;
         padding-right: 20px;
-    }    
+    }
+    
+    .menu-four-option a.button {
+        width: 200px !important;
+    }
 }
 
 @media (min-width: 900px) {
