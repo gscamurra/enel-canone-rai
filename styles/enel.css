@@ -22,6 +22,10 @@ background: #FFF;
 border-radius: 0px;
 }
 
+.info-card .button-container a.button {
+    width: 100px !important;
+}
+
 .menu-four-option div div:nth-child(1) a.button, .info-card .button-container a.button 
 {
  border-color: #ffc63e !important;
