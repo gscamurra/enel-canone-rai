@@ -94,6 +94,11 @@ border-radius: 0px;
     border-bottom: 0px !important;
 }
 
+.faq {
+    font-size: 20px;
+    color: #ff186a;
+}
+
 @media (max-width: 899px) {
     .menu-four-option div {
         height: 250px !important;
