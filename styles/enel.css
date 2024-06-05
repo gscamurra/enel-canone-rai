@@ -100,7 +100,7 @@ border-radius: 0px;
 }
 
 .faq .accordion-item-body {
-    background: #FFF;
+    background-color: #FFF !important;
 }
 
 @media (max-width: 899px) {
